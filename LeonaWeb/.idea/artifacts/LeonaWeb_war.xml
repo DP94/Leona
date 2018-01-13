@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LeonaWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LeonaWeb-1.war">
+      <element id="artifact" artifact-name="LeonaWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

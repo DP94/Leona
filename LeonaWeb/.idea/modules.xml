@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Leona/Leona.iml" filepath="$PROJECT_DIR$/../Leona/Leona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LeonaEAR/LeonaEAR.iml" filepath="$PROJECT_DIR$/../LeonaEAR/LeonaEAR.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeonaWeb.iml" filepath="$PROJECT_DIR$/LeonaWeb.iml" />
     </modules>
   </component>

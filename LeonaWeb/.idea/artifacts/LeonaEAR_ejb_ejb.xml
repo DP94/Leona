@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="LeonaEAR-ejb:ejb">
+    <output-path>$PROJECT_DIR$/../LeonaEAR/LeonaEAR-ejb/target</output-path>
+    <root id="archive" name="LeonaEAR-ejb.jar">
+      <element id="artifact" artifact-name="LeonaEAR-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

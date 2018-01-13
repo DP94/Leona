@@ -11,6 +11,10 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Leona" target="1.5" />
+      <module name="LeonaEAR" target="1.7" />
+      <module name="LeonaEAR-ear" target="1.7" />
+      <module name="LeonaEAR-ejb" target="1.7" />
+      <module name="LeonaEAR-web" target="1.7" />
       <module name="LeonaWeb" target="1.5" />
     </bytecodeTargetLevel>
   </component>
