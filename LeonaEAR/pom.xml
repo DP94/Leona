@@ -95,7 +95,7 @@
                     AS container -->
                 <!-- Due to Maven's lack of intelligence with EARs we need 
                     to configure the wildfly maven plugin to skip deployment for all modules.
-                    We then enable it specifically in the ear module. -->
+                    We then enable it specifically in the ear module. test-->
                 <plugin>
                     <groupId>org.wildfly.plugins</groupId>
                     <artifactId>wildfly-maven-plugin</artifactId>
